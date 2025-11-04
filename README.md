@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Integrantes
 
-* **Lucas Lima** – Gestor de Configuração
+* **Lucas** – Gestor de Configuração
 * **Juliana** – Desenvolvedora Principal
 * **Michael Douglas** – Revisor de Código
 
@@ -96,7 +96,7 @@
    ```
 
 4. **Permissões:**
-   Adicionar Maria e João como *Collaborators* no GitHub.
+   Adicionar Juliana e Michael como *Collaborators* no GitHub.
 
 ---
 
@@ -106,9 +106,9 @@
 
 1. **Criação das branches individuais**
 
-   * Lux → `feature/configuracao-inicial`
-   * Maria → `feature/cadastro-produto`
-   * João → `feature/pedidos-clientes`
+   * Lucas → `feature/configuracao-inicial`
+   * Juliana → `feature/cadastro-produto`
+   * Michael → `feature/pedidos-clientes`
 
 2. **Commits padronizados**
 
@@ -120,11 +120,11 @@
 3. **Pull Requests**
 
    * Cada membro envia *Pull Request* para a branch `develop`.
-   * João (revisor) analisa e aprova o *merge*.
+   * Michael (revisor) analisa e aprova o *merge*.
 
 4. **Simulação de Conflito**
 
-   * Lux e Maria alteraram o mesmo trecho em `app.py`.
+   * Lucas e Juliana alteraram o mesmo trecho em `app.py`.
    * Git apontou conflito → resolvido manualmente, mantendo a versão mais atualizada e comentada.
 
 5. **Criação de Tags**
@@ -162,7 +162,7 @@ main
 
 * **Arquivo:** `app.py`
 * **Situação:** Funções de listagem duplicadas.
-* **Solução:** Mantida a versão de Maria, incorporando o log criado por Lux.
+* **Solução:** Mantida a versão de Juliana, incorporando o log criado por Lucas.
 
 ### Histórico de Commits
 
